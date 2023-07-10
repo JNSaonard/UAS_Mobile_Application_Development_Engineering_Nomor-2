@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>669932001566-djjgf2d9s9gpc7hkabasgdul83i7n2vc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.669932001566-djjgf2d9s9gpc7hkabasgdul83i7n2vc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBrUyFtWi6k6wmBPfStzy7LnhR7cMgDk9Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>669932001566</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.nomor2</string>
+	<key>PROJECT_ID</key>
+	<string>nomor-2-b9c18</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nomor-2-b9c18.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:669932001566:ios:a3118a89b8f4266065910f</string>
+	<key>DATABASE_URL</key>
+	<string>https://nomor-2-b9c18-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
